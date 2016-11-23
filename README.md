@@ -1,7 +1,7 @@
 # SWR >> Codefest 2016 Backend
 
 Created by team: 'rezept bot'
-For front-end see https://github.com/song-what/Foodperience
+For front-end see https://github.com/foodperience/foodperience.github.io
 
 Users can creative recipes from a random list of ingredients. Also recipes can be found by ingredients.
 
